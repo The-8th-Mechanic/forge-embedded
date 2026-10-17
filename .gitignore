@@ -1,0 +1,12 @@
+.pio/
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*-backups/
+*.kicad_prl
+fp-info-cache
+_autosave-*
+secrets.h
+*.env
