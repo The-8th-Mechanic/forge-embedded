@@ -1,6 +1,4 @@
-/*#include <avr/io.h>
-//#include <HardwareSerial.h>
-#include <stdint.h>*/
+
 #include <Arduino.h>
 
 

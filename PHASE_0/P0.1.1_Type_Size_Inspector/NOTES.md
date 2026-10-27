@@ -1,3 +1,8 @@
+![Wokwi output: type sizes and overflow experiments](docs/Type_Size_Inspector_1.png)
+
+![Second screenshot: describe what it shows](docs/Type_Size_Inspector_2.png)
+
+
 There are 2 questions that need to be answered in this section:
 1. What determines the size of a pointer in arduino?
 2. What determines the size of an "int" varaible across different architectures?
